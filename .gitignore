@@ -22,3 +22,6 @@ data/
 
 # Ignore kaggle api
 /kaggle.json
+
+# Ignore the data folder
+saved_models/
