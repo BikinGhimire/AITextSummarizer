@@ -10,3 +10,5 @@ hf_xet==1.0.3
 accelerate==1.6.0
 evaluate==0.4.3
 peft==0.15.1
+bert-score==0.3.13
+streamlit==1.44.1
